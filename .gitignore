@@ -1,0 +1,12 @@
+# go build output
+bin/
+dist/
+coverage.out
+*.log
+
+# editor settings
+.idea/
+.DS_Store
+
+# optional: ignore VS Code config (remove if you want to commit .vscode/launch.json)
+.vscode/
